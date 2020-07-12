@@ -7,5 +7,12 @@ public class ybqjianfa {
         System.out.println("aaaaaaaaa");
         System.out.println("aaaaaaaaa");
 
+
+        System.out.println("bbbb");
+        System.out.println("bbbb");
+        System.out.println("bbbb");
+        System.out.println("bbbb");
+        System.out.println("bbbb");
+        System.out.println("bbbb");
     }
 }
