@@ -18,6 +18,8 @@ public class ybqjianfa {
         System.out.println("lllllllllllllllllllll");
 
 
+        System.out.println("我是令狐冲");
+
 
     }
 }
